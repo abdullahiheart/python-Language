@@ -1,1 +1,2 @@
-print("Abdulli Heart")
+
+print("Maxaa barataa adiga")
