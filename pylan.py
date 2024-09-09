@@ -23,6 +23,9 @@
 # print('''waxaan ahy arday dhigta jamacada
 #       waxaan bartaa Computer Sceinse''')
 # sida loo sodawaco xaraf go ni ah
-name= "Abdull heart"
-print(name[7])
+# name= "Abdull heart"
+# print(name[7])
+# sida loso dawaco tirada xarfaha
+tirin ="Hooyo mcnto"
+print(len(tirin))
  
