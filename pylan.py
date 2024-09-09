@@ -20,6 +20,9 @@
 # print(name+ "I'm from somalia")
 
 # sida loo sodawaco 3 """""" kaliya qoraal dheer lagu sodawaca
-print('''waxaan ahy arday dhigta jamacada
-      waxaan bartaa Computer Sceinse''')
+# print('''waxaan ahy arday dhigta jamacada
+#       waxaan bartaa Computer Sceinse''')
+# sida loo sodawaco xaraf go ni ah
+name= "Abdull heart"
+print(name[7])
  
