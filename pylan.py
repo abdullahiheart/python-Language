@@ -26,6 +26,7 @@
 # name= "Abdull heart"
 # print(name[7])
 # sida loso dawaco tirada xarfaha
-tirin ="Hooyo mcnto"
-print(len(tirin))
+# tirin ="Hooyo mcnto"
+# print(len(tirin))
+# condion
  
