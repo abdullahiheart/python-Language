@@ -30,6 +30,11 @@
 # print(len(tirin))
 # condion
 # Escape character and sequences
-text = "waa erey \"loo isticmalo jumlado"
+# text = "waa erey \"loo isticmalo jumlado"
+# print(text)
+# \"
+# \'
+# \
+# \n
+text = "waa erey \n loo isticmalo jumlado"
 print(text)
- 
