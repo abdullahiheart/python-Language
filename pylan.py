@@ -29,4 +29,7 @@
 # tirin ="Hooyo mcnto"
 # print(len(tirin))
 # condion
+# Escape character and sequences
+text = "waa erey \"loo isticmalo jumlado"
+print(text)
  
