@@ -51,5 +51,7 @@
 # print(plase.upper())
 # plase = "MOGADISHU SOMALI"
 # print(plase.lower())
-plase = "      mogadishu somalia"
-print(plase.strip())
+# plase = "      mogadishu somalia"
+# print(plase.strip())
+plase = "       mogadishu somalia"
+print(plase.find("mali"))
