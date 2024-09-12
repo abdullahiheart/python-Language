@@ -47,5 +47,7 @@
 # full_name = f"{firsr_name} {last_name} {third_name}"
 # print (full_name)
 # String Methods
-plase = "mogadishu somalia"
-print(plase.upper())
+# plase = "mogadishu somalia"
+# print(plase.upper())
+plase = "MOGADISHU SOMALI"
+print(plase.lower())
