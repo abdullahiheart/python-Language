@@ -39,10 +39,13 @@
 # text = "waa erey \n loo isticmalo jumlado"
 # print(text)
 # Formatted String
-firsr_name = "Abdull"
-last_name = "Yusuf"
-third_name = "Heart"
+# firsr_name = "Abdull"
+# last_name = "Yusuf"
+# third_name = "Heart"
 
-# full_name = firsr_name+ " "+last_name+" "+" "+ third_name
-full_name = f"{firsr_name} {last_name} {third_name}"
-print (full_name)
+# # full_name = firsr_name+ " "+last_name+" "+" "+ third_name
+# full_name = f"{firsr_name} {last_name} {third_name}"
+# print (full_name)
+# String Methods
+plase = "mogadishu somalia"
+print(plase.upper())
