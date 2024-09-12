@@ -49,5 +49,7 @@
 # String Methods
 # plase = "mogadishu somalia"
 # print(plase.upper())
-plase = "MOGADISHU SOMALI"
-print(plase.lower())
+# plase = "MOGADISHU SOMALI"
+# print(plase.lower())
+plase = "mogadishu somalia"
+print(plase.title())
