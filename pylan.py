@@ -55,5 +55,8 @@
 # print(plase.strip())
 # plase = "       mogadishu somalia"
 # print(plase.find("mali"))
+# plase = "mogadishu somalia"
+# print(plase.replace("mogadishu","wadanka"))
+# Waxaa lahubinaa in uu kujiro xarafkaas
 plase = "mogadishu somalia"
-print(plase.replace("mogadishu","wadanka"))
+print("dishu"in plase)
