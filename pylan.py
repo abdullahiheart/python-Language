@@ -60,3 +60,4 @@
 # Waxaa lahubinaa in uu kujiro xarafkaas
 plase = "mogadishu somalia"
 print("dishu"in plase)
+print("mogadishu" not in plase)
